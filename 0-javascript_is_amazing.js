@@ -1,2 +1,3 @@
-# js-fundamentals
-console.log("Javascript _is_amazing");
+# js-fundamentals 
+const myVar="Javascript _is_amazing"
+console.log(myVar);
